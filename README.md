@@ -1,18 +1,13 @@
-<br />
-<p align="center">
-  <h3 align="center">NPX Card</h3>
-  <p align="center">
-    My Personal Business Card 
-    <br />
-  </p>
-</p>
+# personal-business-card
 
+> indrapalijama
 
-
-
-### Running
+## Install
 
 ```bash
-npx indrapalijama
+$ npx indrapalijama
 ```
 
+## License
+
+MIT
