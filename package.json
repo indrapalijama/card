@@ -1,6 +1,6 @@
 {
   "name": "indrapalijama",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "My personal business card",
   "main": "card.js",
   "bin": "./card.js",
