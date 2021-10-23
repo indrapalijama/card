@@ -1,13 +1,15 @@
-# personal-business-card
+# Personal Card
+[![npm version](https://badge.fury.io/js/indrapalijama.svg)](https://badge.fury.io/js/indrapalijama)
 
-> indrapalijama
+*my personal digital business card*
+
+![image](https://github.com/indrapalijama/card/blob/master/demo.gif)
 
 ## Install
 
-```bash
-$ npx indrapalijama
+```shell
+npx indrapalijama
 ```
 
 ## License
-
-MIT
+MIT © Indra Palijama
