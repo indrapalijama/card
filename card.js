@@ -11,7 +11,7 @@ clear();
 
 const lines = [
   `${chalk.white.bold('Samudra Palijama')} / ${chalk.hex('#0094C6')('@indrapalijama')}`,
-  `${chalk.hex('#d4d4d4')('Programmer @ Computrade Technology International')}`,
+  `${chalk.hex('#d4d4d4')('Fullstack Dev @ Anabatic Technologies')}`,
   '',
   `${chalk.white.bold('Web')}        ${chalk.hex('#0094C6').underline('https://indrapalijama.github.io')}`,
   `${chalk.white.bold('GitHub')}     ${chalk.hex('#0094C6').underline('https://github.com/indrapalijama')}`,
